@@ -1,2 +1,2 @@
-Hello World! Edited
+Hello World! Edited twice
 # new-front
